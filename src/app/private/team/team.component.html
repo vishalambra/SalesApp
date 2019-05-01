@@ -1,0 +1,12 @@
+<app-header></app-header>
+<div class="container">
+    <div *ngFor="let team of teams;" class="card">
+        <span class="uname" (click)="edit()" data-toggle="modal" data-target="#myModal">{{team.team_name | uppercase}}</span>
+        <div class="clear" data-toggle="modal" data-target="#myModal"></div>
+        <span class="teamAmount">{{team.amount | currency}}<button style="color: red" (click)="delete(i, team)" class="deleteTeam fa fa-trash btn btn"></button>
+        </span>
+        <div class="clear"></div>
+    </div>
+</div>
+<router-outlet></router-outlet>
+<app-footer></app-footer>

@@ -1,0 +1,222 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+MERGED from [com.android.support:design:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/2488eaebf7b0fe44f893a873f4b46a76/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/9bf1d6f79d31aca4c7ea646dc9986013/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/6e2b7fe8593dd927f7a719708ed418c0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:multidex:1.0.2] /home/vishal/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/37b05e1ca57b7c8d2f3c8f07b80b4912/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/2d0565bbcfd05ad71d3e50c1523d41e3/AndroidManifest.xml:17:1-22:12
+MERGED from [:nativescript-optimized-with-inspector:] /home/vishal/.gradle/caches/transforms-1/files-1.1/nativescript-optimized-with-inspector.aar/d96712572d63c69c20fa3b9208968e19/AndroidManifest.xml:2:1-11:12
+MERGED from [:TNSListView-release:] /home/vishal/.gradle/caches/transforms-1/files-1.1/TNSListView-release.aar/4269d9749bf096b4cda1ff754dc2fe65/AndroidManifest.xml:2:1-11:12
+MERGED from [:TNSCore-release:] /home/vishal/.gradle/caches/transforms-1/files-1.1/TNSCore-release.aar/13e42b581c82fa3480c75010ab4a3332/AndroidManifest.xml:2:1-11:12
+MERGED from [:widgets-release:] /home/vishal/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/efbf2c82e692a093c6b096c196644fe3/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/2e0089d66a2fac308857ba5eecdec987/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/5d0fcd0179d4d2925068822a8b4facfd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/8b53c764d9f91235a9ebfb5852061f98/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/a3fc4987408f92dc9532defdb0aedf1a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/09f0b1df302a7d916dede26cf452b142/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/32000ee15e1e2c1027e61c5fda08a331/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/d5bc2e4748f6668c59df334322104d32/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/3ddd722c58e564a53d5de61306eb031e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/24e3997627bb5ace60bc1c3dfc511d42/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/4e34f1acfa4d33b86bcd93a27ddbb4a8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/1a4f9cf3c7a5fb5f7711a062e9cd9cf0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/0717b8b26e4d5551511fbdb46fcf46de/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/9546ec132d31de0b8fe7871e760db58f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/20f69e9e4426f6634d6e96f7a1f962a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/29cf00a4a47f12f7c3bf8d50e07da0d4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1b31c4d6ee5574b344370417751e51c2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6ea5107eef1229901840286c05ddb990/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c454254ed6bba8ece6bf133eed077dda/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/15c5ee751f1517c76cdcfce485440fd3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/vishal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9467c355ad444e4181d4bb7477a17d11/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/31688282dc69486ee6772313bffac9db/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/871d3534c9500aacf26877696439c0c5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/8e36016845f41cfb955f6c8b9aa610c9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/vishal/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/79257a76dc2df071a577ac1be734aa0d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/d0f08d8c9ada537d4c12ca450f9f0f6a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/vishal/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/886caf169afba2b7d1697b436e4c3e18/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/vishal/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/e703c8dd2a3c323df721c07ace7e7153/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/vishal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a2a0cf4bd97f8f79fa96076dfdd13951/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:3:2-36
+		INJECTED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:5:2-27
+		INJECTED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:4:2-25
+		INJECTED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:7:2-11:33
+	android:largeScreens
+		ADDED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:10:3-30
+	android:smallScreens
+		ADDED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:8:3-30
+	android:normalScreens
+		ADDED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:9:3-31
+	android:xlargeScreens
+		ADDED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:11:3-31
+uses-sdk
+ADDED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+INJECTED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+INJECTED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+MERGED from [com.android.support:design:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/2488eaebf7b0fe44f893a873f4b46a76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/2488eaebf7b0fe44f893a873f4b46a76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/9bf1d6f79d31aca4c7ea646dc9986013/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/9bf1d6f79d31aca4c7ea646dc9986013/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/6e2b7fe8593dd927f7a719708ed418c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/6e2b7fe8593dd927f7a719708ed418c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.2] /home/vishal/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/37b05e1ca57b7c8d2f3c8f07b80b4912/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /home/vishal/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/37b05e1ca57b7c8d2f3c8f07b80b4912/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/2d0565bbcfd05ad71d3e50c1523d41e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/2d0565bbcfd05ad71d3e50c1523d41e3/AndroidManifest.xml:20:5-44
+MERGED from [:nativescript-optimized-with-inspector:] /home/vishal/.gradle/caches/transforms-1/files-1.1/nativescript-optimized-with-inspector.aar/d96712572d63c69c20fa3b9208968e19/AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript-optimized-with-inspector:] /home/vishal/.gradle/caches/transforms-1/files-1.1/nativescript-optimized-with-inspector.aar/d96712572d63c69c20fa3b9208968e19/AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSListView-release:] /home/vishal/.gradle/caches/transforms-1/files-1.1/TNSListView-release.aar/4269d9749bf096b4cda1ff754dc2fe65/AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSListView-release:] /home/vishal/.gradle/caches/transforms-1/files-1.1/TNSListView-release.aar/4269d9749bf096b4cda1ff754dc2fe65/AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSCore-release:] /home/vishal/.gradle/caches/transforms-1/files-1.1/TNSCore-release.aar/13e42b581c82fa3480c75010ab4a3332/AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSCore-release:] /home/vishal/.gradle/caches/transforms-1/files-1.1/TNSCore-release.aar/13e42b581c82fa3480c75010ab4a3332/AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] /home/vishal/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/efbf2c82e692a093c6b096c196644fe3/AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] /home/vishal/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/efbf2c82e692a093c6b096c196644fe3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/2e0089d66a2fac308857ba5eecdec987/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/2e0089d66a2fac308857ba5eecdec987/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/5d0fcd0179d4d2925068822a8b4facfd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/5d0fcd0179d4d2925068822a8b4facfd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/8b53c764d9f91235a9ebfb5852061f98/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/8b53c764d9f91235a9ebfb5852061f98/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/a3fc4987408f92dc9532defdb0aedf1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/a3fc4987408f92dc9532defdb0aedf1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/09f0b1df302a7d916dede26cf452b142/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/09f0b1df302a7d916dede26cf452b142/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/32000ee15e1e2c1027e61c5fda08a331/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/32000ee15e1e2c1027e61c5fda08a331/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/d5bc2e4748f6668c59df334322104d32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/d5bc2e4748f6668c59df334322104d32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/3ddd722c58e564a53d5de61306eb031e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/3ddd722c58e564a53d5de61306eb031e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/24e3997627bb5ace60bc1c3dfc511d42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/24e3997627bb5ace60bc1c3dfc511d42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/4e34f1acfa4d33b86bcd93a27ddbb4a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/4e34f1acfa4d33b86bcd93a27ddbb4a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/1a4f9cf3c7a5fb5f7711a062e9cd9cf0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/1a4f9cf3c7a5fb5f7711a062e9cd9cf0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/0717b8b26e4d5551511fbdb46fcf46de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/0717b8b26e4d5551511fbdb46fcf46de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/9546ec132d31de0b8fe7871e760db58f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/9546ec132d31de0b8fe7871e760db58f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/20f69e9e4426f6634d6e96f7a1f962a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/20f69e9e4426f6634d6e96f7a1f962a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/29cf00a4a47f12f7c3bf8d50e07da0d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/29cf00a4a47f12f7c3bf8d50e07da0d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1b31c4d6ee5574b344370417751e51c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1b31c4d6ee5574b344370417751e51c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6ea5107eef1229901840286c05ddb990/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6ea5107eef1229901840286c05ddb990/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c454254ed6bba8ece6bf133eed077dda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c454254ed6bba8ece6bf133eed077dda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/15c5ee751f1517c76cdcfce485440fd3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/15c5ee751f1517c76cdcfce485440fd3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/vishal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9467c355ad444e4181d4bb7477a17d11/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/vishal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9467c355ad444e4181d4bb7477a17d11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/31688282dc69486ee6772313bffac9db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/31688282dc69486ee6772313bffac9db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/871d3534c9500aacf26877696439c0c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/871d3534c9500aacf26877696439c0c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/8e36016845f41cfb955f6c8b9aa610c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/8e36016845f41cfb955f6c8b9aa610c9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/vishal/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/79257a76dc2df071a577ac1be734aa0d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/vishal/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/79257a76dc2df071a577ac1be734aa0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/d0f08d8c9ada537d4c12ca450f9f0f6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/d0f08d8c9ada537d4c12ca450f9f0f6a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/vishal/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/886caf169afba2b7d1697b436e4c3e18/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/vishal/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/886caf169afba2b7d1697b436e4c3e18/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/vishal/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/e703c8dd2a3c323df721c07ace7e7153/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/vishal/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/e703c8dd2a3c323df721c07ace7e7153/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/vishal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a2a0cf4bd97f8f79fa96076dfdd13951/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/vishal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a2a0cf4bd97f8f79fa96076dfdd13951/AndroidManifest.xml:20:5-44
+INJECTED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+INJECTED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+	android:targetSdkVersion
+		ADDED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:15:3-32
+		INJECTED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:14:3-29
+		INJECTED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:17:2-76
+	android:name
+		ADDED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:17:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:18:2-77
+	android:name
+		ADDED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:18:19-75
+uses-permission#android.permission.INTERNET
+ADDED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:19:2-63
+	android:name
+		ADDED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:19:19-61
+application
+ADDED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:21:2-42:16
+MERGED from [com.android.support:design:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/2488eaebf7b0fe44f893a873f4b46a76/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/2488eaebf7b0fe44f893a873f4b46a76/AndroidManifest.xml:22:5-20
+MERGED from [:widgets-release:] /home/vishal/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/efbf2c82e692a093c6b096c196644fe3/AndroidManifest.xml:11:5-12:19
+MERGED from [:widgets-release:] /home/vishal/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/efbf2c82e692a093c6b096c196644fe3/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1b31c4d6ee5574b344370417751e51c2/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1b31c4d6ee5574b344370417751e51c2/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6ea5107eef1229901840286c05ddb990/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6ea5107eef1229901840286c05ddb990/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/vishal/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1b31c4d6ee5574b344370417751e51c2/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:25:3-35
+	android:icon
+		ADDED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:24:3-32
+	android:allowBackup
+		ADDED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:23:3-29
+	android:theme
+		ADDED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:26:3-34
+	android:name
+		ADDED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:22:3-49
+activity#com.tns.NativeScriptActivity
+ADDED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:28:3-40:14
+	android:label
+		ADDED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:30:4-49
+	android:configChanges
+		ADDED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:31:4-65
+	android:theme
+		ADDED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:32:4-44
+	android:name
+		ADDED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:29:4-47
+meta-data#SET_THEME_ON_LAUNCH
+ADDED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:34:4-87
+	android:resource
+		ADDED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:34:50-84
+	android:name
+		ADDED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:34:15-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:36:4-39:20
+action#android.intent.action.MAIN
+ADDED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:37:5-57
+	android:name
+		ADDED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:37:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:38:5-65
+	android:name
+		ADDED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:38:15-62
+activity#com.tns.ErrorReportActivity
+ADDED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:41:3-57
+	android:name
+		ADDED from /home/vishal/Desktop/SaleApp/platforms/android/app/src/main/AndroidManifest.xml:41:13-55

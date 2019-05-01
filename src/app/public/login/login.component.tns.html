@@ -1,0 +1,14 @@
+<ActionBar [title]="title"></ActionBar>
+<GridLayout>
+    <ScrollView class="page">
+        <FlexboxLayout flexDirection="column" [formGroup]="loginForm" margin="35">
+            <!--Add your page content here-->
+            <Image src="res://favicon32x32" width="200" ></Image>
+            <!-- <Label textWrap="true" text="Email" ></Label> -->
+            <TextField hint="Email" formControlName="email"></TextField>
+            <!-- <Label textWrap="true" text="Password"></Label> -->
+            <TextField hint="Password"  formControlName="password"></TextField>
+            <Button text="Login" (tap)="login()"></Button>
+        </FlexboxLayout >
+    </ScrollView>
+</GridLayout>

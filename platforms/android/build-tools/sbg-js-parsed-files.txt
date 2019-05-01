@@ -1,0 +1,6 @@
+/home/vishal/Desktop/SaleApp/platforms/android/app/src/main/assets/app/1.js
+/home/vishal/Desktop/SaleApp/platforms/android/app/src/main/assets/app/tns-java-classes.js
+/home/vishal/Desktop/SaleApp/platforms/android/app/src/main/assets/app/vendor.js
+/home/vishal/Desktop/SaleApp/platforms/android/app/src/main/assets/app/starter.js
+/home/vishal/Desktop/SaleApp/platforms/android/app/src/main/assets/app/0.js
+/home/vishal/Desktop/SaleApp/platforms/android/app/src/main/assets/app/bundle.js

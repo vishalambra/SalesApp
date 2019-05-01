@@ -1,0 +1,42 @@
+.container {
+    /* border:solid black 1px; */
+    align-content: center;
+    width: 60%;
+    margin: 0 auto;
+}
+
+
+/* card containing both anme and amount  */
+
+.card {
+    /* border:solid black 1px; */
+    box-shadow: 0 2px 3px grey;
+    align-content: center;
+    margin: 2%;
+    position: relative;
+}
+
+
+/* uname span contain name  */
+
+.uname {
+    padding: 2%;
+    /* border: solid red 1px; */
+    position: absolute;
+    display: inline-block;
+}
+
+
+/* teamAmount span contain name  */
+
+.teamAmount {
+    float: right;
+    text-align: right;
+    /* border: solid black 1px; */
+    padding: 2%;
+    display: block;
+}
+
+.clear {
+    clear: both;
+}
